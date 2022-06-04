@@ -1,0 +1,8 @@
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\BootCamp.exe
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\BootCamp.dll
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\BootCamp.deps.json
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\BootCamp.runtimeconfig.json
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\BootCamp.pdb
+D:\git\DevOps\ASP\BootCamp\BootCamp\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
